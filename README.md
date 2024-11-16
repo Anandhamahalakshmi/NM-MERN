@@ -63,7 +63,7 @@ Git - For version control and cloning the repository.
 Installation Steps
 
 Clone the repository:
-git clone https://github.com/your-repo/house-rent-app.git cd house-rent-app
+git clone https://github.com/Anandhamahalakshmi/NM-MERN.git cd house-rent-app
 Install Backend Dependencies:
 
 Navigate to the backend folder (if separated): cd backend
